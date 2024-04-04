@@ -1,3 +1,4 @@
+pip install torch
 import streamlit as st
 import torch
 from transformers import BertTokenizer, BertForSequenceClassification
